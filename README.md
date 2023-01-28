@@ -4,6 +4,6 @@ The restify library aims to simplify and speed up development for REST based cli
 What has this library to offer:
 
 * Object to HTTP Request mapping
-* Http response mapping
-* Blends in nice with the default dependency injection container for .NET core applications
-
+* HTTP request and response logging
+* HTTP response caching
+* Fluent interface for building the desired configuration
