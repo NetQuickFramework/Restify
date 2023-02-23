@@ -4,6 +4,7 @@ The restify library aims to simplify and speed up development for REST based cli
 What has this library to offer:
 
 * Object to HTTP Request mapping (no method mapping)
+* Smart Http Response to object mapping
 * Authenticating requests
 * HTTP request and/or response logging
 * (smart) HTTP response caching
